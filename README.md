@@ -4,7 +4,7 @@
 
 # JavaScript Random password generator
 
-- This is Javascript mini-Project. In this project I have made a **Random Password generator** with JavasCript, which generates random password everytime.
+- This is Javascript mini-Project. In this project I have made a **Random Password generator** with JavaScript, which generates random password everytime.
 
 - You can also specify what type of character you want like uppercase alphabets, lowercase alphabets, numbers and symbols.
 
