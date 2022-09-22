@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5%20to%206%20hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://js-04passwordgenerator-project.netlify.app/)
 
-# JavaScript Color changer project
+# JavaScript Random password generator
 
 - This is Javascript mini-Project. In this project I have made a **Random Password generator** with JavasCript, which generates random password everytime.
 
