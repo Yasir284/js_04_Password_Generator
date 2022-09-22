@@ -10,8 +10,6 @@
 
 - You can specify length of the password and also can copy the password to your **clipboard**
 
-- I have also added a surprise to it, so do check it out. The live link is given below.
-
 - It took me 5-6 hrs to make this project.
 
   [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-purple)](https://js-04passwordgenerator-project.netlify.app/)
